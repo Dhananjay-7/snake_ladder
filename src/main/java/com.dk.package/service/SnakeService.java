@@ -1,4 +1,4 @@
-package service;
+package com.dk.package.service;
 
 import repository.SnakeRepository;
 

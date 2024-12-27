@@ -1,11 +1,11 @@
-package service;
+package com.dk.package.service;
 
 import dto.Board;
 import dto.Player;
 import repository.PlayerRepository;
 import util.DiceUtil;
-
 import java.util.Scanner;
+
 
 public class BoardService {
     //roll dice

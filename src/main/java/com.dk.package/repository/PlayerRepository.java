@@ -1,4 +1,4 @@
-package repository;
+package com.dk.package.repository;
 
 import dto.Player;
 

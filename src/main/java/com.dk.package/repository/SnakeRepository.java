@@ -1,21 +1,23 @@
 package repository;
 
-import dto.Ladder;
+import dto.Snake;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+package com.dk.package.repository;
 
-public class LadderRepository {
+public class SnakeRepository {
+
 
     public static Map<Integer, Integer> getStartLastMap() {
         return startLastMap;
     }
 
-    public LadderRepository() {
+    public SnakeRepository() {
         startLastMap = new HashMap<>();
-
     }
 
-    static Map<Integer,Integer> startLastMap;
+    static  Map<Integer,Integer> startLastMap;
 }
+

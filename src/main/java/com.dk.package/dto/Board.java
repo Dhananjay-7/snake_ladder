@@ -1,4 +1,4 @@
-package dto;
+package com.dk.package.dto;
 
 public class Board {
     int size;

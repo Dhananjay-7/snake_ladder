@@ -1,4 +1,5 @@
-package service;
+package com.dk.package.service;
+
 
 import repository.LadderRepository;
 import repository.SnakeRepository;

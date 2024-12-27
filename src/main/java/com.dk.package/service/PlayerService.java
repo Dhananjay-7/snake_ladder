@@ -1,4 +1,4 @@
-package service;
+package com.dk.package.service;
 
 import dto.Player;
 import repository.PlayerRepository;
